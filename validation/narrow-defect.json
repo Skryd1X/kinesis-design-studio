@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "startedAt": "2026-10-14T12:36:56.353Z",
+  "revision": "unspecified",
+  "baseURL": "http://127.0.0.1:42553",
+  "evidenceLayer": "browser-emulation",
+  "runs": [
+    {
+      "id": "chromium--phone--default--layout",
+      "engine": "chromium",
+      "profile": "phone",
+      "variant": "default",
+      "route": "layout",
+      "status": "failed",
+      "issues": [
+        {
+          "code": "horizontal-overflow",
+          "selector": "html",
+          "details": {
+            "viewport": 320,
+            "scrollWidth": 1219,
+            "suspects": [
+              "#hero",
+              "h1",
+              "p"
+            ]
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "occluded-control",
+          "selector": "#cta",
+          "details": {
+            "blocked": [
+              {
+                "x": 149.203125,
+                "y": 336,
+                "by": "div.decoration"
+              },
+              {
+                "x": 58.203125,
+                "y": 319.2,
+                "by": "div.decoration"
+              },
+              {
+                "x": 240.203125,
+                "y": 319.2,
+                "by": "div.decoration"
+              },
+              {
+                "x": 58.203125,
+                "y": 352.8,
+                "by": "div.decoration"
+              },
+              {
+                "x": 240.203125,
+                "y": 352.8,
+                "by": "div.decoration"
+              }
+            ]
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "style-override",
+          "selector": "#cta",
+          "details": {
+            "property": "background-color",
+            "expected": "rgb(36, 36, 31)",
+            "actual": "rgb(255, 0, 0)"
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "horizontal-overflow",
+          "selector": "html",
+          "details": {
+            "viewport": 320,
+            "scrollWidth": 1219,
+            "suspects": [
+              "#hero",
+              "h1",
+              "p"
+            ]
+          },
+          "severity": "major",
+          "state": "initial",
+          "phase": "control-reachability"
+        },
+        {
+          "code": "occluded-control",
+          "selector": "#cta",
+          "details": {
+            "blocked": [
+              {
+                "x": 149.203125,
+                "y": 336,
+                "by": "div.decoration"
+              },
+              {
+                "x": 58.203125,
+                "y": 319.2,
+                "by": "div.decoration"
+              },
+              {
+                "x": 240.203125,
+                "y": 319.2,
+                "by": "div.decoration"
+              },
+              {
+                "x": 58.203125,
+                "y": 352.8,
+                "by": "div.decoration"
+              },
+              {
+                "x": 240.203125,
+                "y": 352.8,
+                "by": "div.decoration"
+              }
+            ]
+          },
+          "severity": "major",
+          "state": "initial",
+          "phase": "control-reachability"
+        }
+      ],
+      "motion": null,
+      "evidenceDirectory": "chromium--phone--default--layout"
+    }
+  ],
+  "limitations": [
+    "Geometry, hit-test and motion probes need project contracts and manual visual review.",
+    "RAF timing in this environment does not certify real-device GPU/display smoothness.",
+    "Not a full accessibility, native-device, true-zoom or security audit."
+  ],
+  "issues": [],
+  "completedAt": "2026-10-14T12:36:58.405Z",
+  "status": "failed"
+}

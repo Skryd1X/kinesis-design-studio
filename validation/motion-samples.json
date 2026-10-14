@@ -1,0 +1,719 @@
+{
+  "sample": {
+    "frames": [
+      {
+        "time": 303.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 220,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 0, 0)"
+          }
+        ]
+      },
+      {
+        "time": 320,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 230.85162353515625,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 10.8516, 0)"
+          }
+        ]
+      },
+      {
+        "time": 336.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 241.10983276367188,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 21.1098, 0)"
+          }
+        ]
+      },
+      {
+        "time": 353.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 250.8565216064453,
+            "y": 591.25,
+            "width": 35.99998474121094,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 30.8565, 0)"
+          }
+        ]
+      },
+      {
+        "time": 370.1,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 260.1160583496094,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 40.1161, 0)"
+          }
+        ]
+      },
+      {
+        "time": 386.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 268.83575439453125,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 48.8358, 0)"
+          }
+        ]
+      },
+      {
+        "time": 403.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 277.10479736328125,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 57.1048, 0)"
+          }
+        ]
+      },
+      {
+        "time": 420,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 284.7977600097656,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 64.7978, 0)"
+          }
+        ]
+      },
+      {
+        "time": 436.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 291.9704895019531,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 71.9705, 0)"
+          }
+        ]
+      },
+      {
+        "time": 453.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 298.4896545410156,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 78.4896, 0)"
+          }
+        ]
+      },
+      {
+        "time": 470,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 304.3731384277344,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 84.3731, 0)"
+          }
+        ]
+      },
+      {
+        "time": 486.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 309.50262451171875,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 89.5026, 0)"
+          }
+        ]
+      },
+      {
+        "time": 503.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 313.77978515625,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 93.7798, 0)"
+          }
+        ]
+      },
+      {
+        "time": 520,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 317.06085205078125,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 97.0609, 0)"
+          }
+        ]
+      },
+      {
+        "time": 536.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 319.2181396484375,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 99.2181, 0)"
+          }
+        ]
+      },
+      {
+        "time": 553.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 570,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 586.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 603.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 620,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 636.6,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 653.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 670,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 686.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 703.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 720,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 736.6,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 753.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 770,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 786.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 803.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 820,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 836.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 853.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 870.1,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 886.6,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 903.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 920,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 936.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 953.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 970,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 986.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1003.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1020,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1036.7,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1053.4,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1070,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1086.6,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      },
+      {
+        "time": 1103.3,
+        "subjects": [
+          {
+            "selector": "#subject",
+            "x": 320,
+            "y": 591.25,
+            "width": 36,
+            "height": 36,
+            "opacity": 1,
+            "transform": "matrix(1, 0, 0, 1, 100, 0)"
+          }
+        ]
+      }
+    ],
+    "telemetry": {
+      "longTasks": [],
+      "longFrames": [],
+      "shifts": [],
+      "supported": {
+        "longtask": true,
+        "long-animation-frame": true,
+        "layout-shift": true
+      }
+    },
+    "durationMs": 806.1000000014901
+  },
+  "analysis": {
+    "statistics": {
+      "sampleFrames": 49,
+      "frameP50Ms": 16.69999999999999,
+      "frameP95Ms": 16.799999999999955,
+      "maxFrameMs": 16.800000000000068,
+      "delayedFrames": 0,
+      "observedLayoutShiftSum": 0
+    },
+    "issues": [],
+    "supportedObservers": {
+      "longtask": true,
+      "long-animation-frame": true,
+      "layout-shift": true
+    }
+  }
+}

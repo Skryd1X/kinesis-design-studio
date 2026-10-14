@@ -1,0 +1,33 @@
+{
+  "baseURL": "http://127.0.0.1:3000",
+  "revision": "replace-with-project-revision",
+  "allowedOrigins": ["http://127.0.0.1:3000"],
+  "outputDir": "qa-results/run-001",
+  "browsers": ["chromium"],
+  "tier": "standard",
+  "breakpoints": [640, 768, 1024],
+  "recordVideo": true,
+  "variants": [
+    {"id": "light", "colorScheme": "light", "reducedMotion": "no-preference"},
+    {"id": "dark", "colorScheme": "dark", "reducedMotion": "no-preference"},
+    {"id": "reduced", "colorScheme": "light", "reducedMotion": "reduce"}
+  ],
+  "routes": [
+    {
+      "id": "home",
+      "path": "/",
+      "readySelector": "main",
+      "contracts": {
+        "controls": [{"selector": "[data-design-critical]", "required": true, "minTargetSize": 44}],
+        "styles": [{"selector": "[data-design-critical]", "properties": {"position": ["relative", "static"]}}]
+      },
+      "states": [{"id": "initial", "actions": []}],
+      "motion": {
+        "durationMs": 1200,
+        "contracts": [{"selector": "[data-design-motion]", "maxStepPx": 80}],
+        "reducedContracts": [{"selector": "[data-design-motion]", "maxTravelPx": 1}],
+        "budgets": {"p95FrameMs": 25, "maxFrameMs": 100, "maxLongTaskMs": 100, "maxLayoutShiftSum": 0.1}
+      }
+    }
+  ]
+}

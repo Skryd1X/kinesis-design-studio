@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "scope": "Replace with actual UI scope",
+  "revision": "Replace with actual revision",
+  "checks": [
+    {
+      "id": "layout",
+      "category": "layout",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "style",
+      "category": "style",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "interaction",
+      "category": "interaction",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "accessibility",
+      "category": "accessibility",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "motion",
+      "category": "motion",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "performance",
+      "category": "performance",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    },
+    {
+      "id": "visual",
+      "category": "visual",
+      "status": "blocked",
+      "reason": "Real evidence not recorded yet"
+    }
+  ],
+  "defects": [],
+  "passes": []
+}

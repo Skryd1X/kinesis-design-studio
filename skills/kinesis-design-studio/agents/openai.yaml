@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kinesis Design Studio"
+  short_description: "Premium UI, motion, 3D, and evidence-driven design QA"
+  default_prompt: "Use $kinesis-design-studio to offer design directions, build the selected interface with exceptional motion, and test and repair responsive, interaction, and animation defects."
+policy:
+  allow_implicit_invocation: true

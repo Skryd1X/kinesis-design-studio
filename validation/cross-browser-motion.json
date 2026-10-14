@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "startedAt": "2026-10-14T12:40:40.464Z",
+  "revision": "unspecified",
+  "baseURL": "http://127.0.0.1:42553",
+  "evidenceLayer": "browser-emulation",
+  "runs": [
+    {
+      "id": "firefox--phone--default--fixed",
+      "engine": "firefox",
+      "profile": "phone",
+      "variant": "default",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 133,
+          "frameP50Ms": 6.059999999999945,
+          "frameP95Ms": 6.060000000000173,
+          "maxFrameMs": 6.080000000000155,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": false,
+          "long-animation-frame": false,
+          "layout-shift": false
+        }
+      },
+      "evidenceDirectory": "firefox--phone--default--fixed"
+    },
+    {
+      "id": "firefox--desktop--default--fixed",
+      "engine": "firefox",
+      "profile": "desktop",
+      "variant": "default",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 133,
+          "frameP50Ms": 6.059999999999945,
+          "frameP95Ms": 6.060000000000173,
+          "maxFrameMs": 6.080000000000041,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": false,
+          "long-animation-frame": false,
+          "layout-shift": false
+        }
+      },
+      "evidenceDirectory": "firefox--desktop--default--fixed"
+    },
+    {
+      "id": "webkit--phone--default--fixed",
+      "engine": "webkit",
+      "profile": "phone",
+      "variant": "default",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 51,
+          "frameP50Ms": 15,
+          "frameP95Ms": 17,
+          "maxFrameMs": 30,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": false,
+          "long-animation-frame": false,
+          "layout-shift": false
+        }
+      },
+      "evidenceDirectory": "webkit--phone--default--fixed"
+    },
+    {
+      "id": "webkit--desktop--default--fixed",
+      "engine": "webkit",
+      "profile": "desktop",
+      "variant": "default",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 52,
+          "frameP50Ms": 16,
+          "frameP95Ms": 17,
+          "maxFrameMs": 30,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": false,
+          "long-animation-frame": false,
+          "layout-shift": false
+        }
+      },
+      "evidenceDirectory": "webkit--desktop--default--fixed"
+    }
+  ],
+  "limitations": [
+    "Geometry, hit-test and motion probes need project contracts and manual visual review.",
+    "RAF timing in this environment does not certify real-device GPU/display smoothness.",
+    "Not a full accessibility, native-device, true-zoom or security audit."
+  ],
+  "issues": [],
+  "completedAt": "2026-10-14T12:40:49.702Z",
+  "status": "passed"
+}

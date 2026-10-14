@@ -1,0 +1,13 @@
+{
+  "name": "kinesis-design-studio-marketplace",
+  "owner": {
+    "name": "Skryd1X"
+  },
+  "plugins": [
+    {
+      "name": "kinesis-design-studio",
+      "source": "./",
+      "description": "A unified design and motion engineering skill with internal QA."
+    }
+  ]
+}

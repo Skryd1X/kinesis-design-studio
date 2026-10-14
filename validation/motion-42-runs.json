@@ -1,0 +1,1109 @@
+{
+  "schema_version": 1,
+  "startedAt": "2026-10-14T12:36:58.407Z",
+  "revision": "unspecified",
+  "baseURL": "http://127.0.0.1:42553",
+  "evidenceLayer": "browser-emulation",
+  "runs": [
+    {
+      "id": "chromium--viewport-320x568--light--fixed",
+      "engine": "chromium",
+      "profile": "viewport-320x568",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-320x568--light--fixed"
+    },
+    {
+      "id": "chromium--viewport-320x568--dark--fixed",
+      "engine": "chromium",
+      "profile": "viewport-320x568",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-320x568--dark--fixed"
+    },
+    {
+      "id": "chromium--viewport-320x568--reduced--fixed",
+      "engine": "chromium",
+      "profile": "viewport-320x568",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-320x568--reduced--fixed"
+    },
+    {
+      "id": "chromium--viewport-390x844--light--fixed",
+      "engine": "chromium",
+      "profile": "viewport-390x844",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-390x844--light--fixed"
+    },
+    {
+      "id": "chromium--viewport-390x844--dark--fixed",
+      "engine": "chromium",
+      "profile": "viewport-390x844",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-390x844--dark--fixed"
+    },
+    {
+      "id": "chromium--viewport-390x844--reduced--fixed",
+      "engine": "chromium",
+      "profile": "viewport-390x844",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-390x844--reduced--fixed"
+    },
+    {
+      "id": "chromium--viewport-768x1024--light--fixed",
+      "engine": "chromium",
+      "profile": "viewport-768x1024",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-768x1024--light--fixed"
+    },
+    {
+      "id": "chromium--viewport-768x1024--dark--fixed",
+      "engine": "chromium",
+      "profile": "viewport-768x1024",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-768x1024--dark--fixed"
+    },
+    {
+      "id": "chromium--viewport-768x1024--reduced--fixed",
+      "engine": "chromium",
+      "profile": "viewport-768x1024",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-768x1024--reduced--fixed"
+    },
+    {
+      "id": "chromium--viewport-1440x900--light--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1440x900",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1440x900--light--fixed"
+    },
+    {
+      "id": "chromium--viewport-1440x900--dark--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1440x900",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1440x900--dark--fixed"
+    },
+    {
+      "id": "chromium--viewport-1440x900--reduced--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1440x900",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1440x900--reduced--fixed"
+    },
+    {
+      "id": "chromium--viewport-1920x1080--light--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1920x1080",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1920x1080--light--fixed"
+    },
+    {
+      "id": "chromium--viewport-1920x1080--dark--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1920x1080",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1920x1080--dark--fixed"
+    },
+    {
+      "id": "chromium--viewport-1920x1080--reduced--fixed",
+      "engine": "chromium",
+      "profile": "viewport-1920x1080",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--viewport-1920x1080--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-below--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-below",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-below--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-below--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-below",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-below--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-below--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-below",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-below--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-exact--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-exact",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-exact--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-exact--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-exact",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-exact--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-exact--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-exact",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-exact--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-above--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-above",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.800000000000182,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-above--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-above--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-above",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-above--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-600-above--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-600-above",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-600-above--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-below--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-below",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-below--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-below--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-below",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-below--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-below--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-below",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-below--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-exact--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-exact",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-exact--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-exact--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-exact",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-exact--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-exact--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-exact",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-exact--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-above--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-above",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-above--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-above--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-above",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-above--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-768-above--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-768-above",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-768-above--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-below--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-below",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-below--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-below--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-below",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-below--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-below--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-below",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-below--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-exact--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-exact",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-exact--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-exact--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-exact",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-exact--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-exact--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-exact",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-exact--reduced--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-above--light--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-above",
+      "variant": "light",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.799999999999955,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-above--light--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-above--dark--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-above",
+      "variant": "dark",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.700000000000045,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.800000000000182,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-above--dark--fixed"
+    },
+    {
+      "id": "chromium--breakpoint-1024-above--reduced--fixed",
+      "engine": "chromium",
+      "profile": "breakpoint-1024-above",
+      "variant": "reduced",
+      "route": "fixed",
+      "status": "passed",
+      "issues": [],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 22,
+          "frameP50Ms": 16.699999999999818,
+          "frameP95Ms": 16.700000000000045,
+          "maxFrameMs": 16.700000000000045,
+          "delayedFrames": 0,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--breakpoint-1024-above--reduced--fixed"
+    }
+  ],
+  "limitations": [
+    "Geometry, hit-test and motion probes need project contracts and manual visual review.",
+    "RAF timing in this environment does not certify real-device GPU/display smoothness.",
+    "Not a full accessibility, native-device, true-zoom or security audit."
+  ],
+  "issues": [],
+  "completedAt": "2026-10-14T12:38:21.416Z",
+  "status": "passed"
+}

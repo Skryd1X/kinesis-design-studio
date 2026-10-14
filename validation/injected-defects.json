@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "startedAt": "2026-10-14T12:36:52.789Z",
+  "revision": "unspecified",
+  "baseURL": "http://127.0.0.1:42553",
+  "evidenceLayer": "browser-emulation",
+  "runs": [
+    {
+      "id": "chromium--desktop--default--layout",
+      "engine": "chromium",
+      "profile": "desktop",
+      "variant": "default",
+      "route": "layout",
+      "status": "failed",
+      "issues": [
+        {
+          "code": "occluded-control",
+          "selector": "#cta",
+          "details": {
+            "blocked": [
+              {
+                "x": 350,
+                "y": 436.25,
+                "by": "div.decoration"
+              },
+              {
+                "x": 259,
+                "y": 419.45,
+                "by": "div.decoration"
+              },
+              {
+                "x": 441,
+                "y": 419.45,
+                "by": "div.decoration"
+              },
+              {
+                "x": 259,
+                "y": 453.05,
+                "by": "div.decoration"
+              },
+              {
+                "x": 441,
+                "y": 453.05,
+                "by": "div.decoration"
+              }
+            ]
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "style-override",
+          "selector": "#cta",
+          "details": {
+            "property": "background-color",
+            "expected": "rgb(36, 36, 31)",
+            "actual": "rgb(255, 0, 0)"
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "alignment-drift",
+          "selector": "#cta",
+          "details": {
+            "mode": "center-x",
+            "delta": 470,
+            "tolerance": 2
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "occluded-control",
+          "selector": "#cta",
+          "details": {
+            "blocked": [
+              {
+                "x": 350,
+                "y": 436.25,
+                "by": "div.decoration"
+              },
+              {
+                "x": 259,
+                "y": 419.45,
+                "by": "div.decoration"
+              },
+              {
+                "x": 441,
+                "y": 419.45,
+                "by": "div.decoration"
+              },
+              {
+                "x": 259,
+                "y": 453.05,
+                "by": "div.decoration"
+              },
+              {
+                "x": 441,
+                "y": 453.05,
+                "by": "div.decoration"
+              }
+            ]
+          },
+          "severity": "major",
+          "state": "initial",
+          "phase": "control-reachability"
+        }
+      ],
+      "motion": null,
+      "evidenceDirectory": "chromium--desktop--default--layout"
+    },
+    {
+      "id": "chromium--desktop--default--motion",
+      "engine": "chromium",
+      "profile": "desktop",
+      "variant": "default",
+      "route": "motion",
+      "status": "failed",
+      "issues": [
+        {
+          "code": "frame-stall",
+          "selector": null,
+          "details": {
+            "sampleFrames": 40,
+            "frameP50Ms": 16.69999999999999,
+            "frameP95Ms": 16.799999999999955,
+            "maxFrameMs": 166.5999999999999,
+            "delayedFrames": 1,
+            "observedLayoutShiftSum": 0
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "motion-discontinuity",
+          "selector": "#subject",
+          "details": {
+            "maxStepPx": 160,
+            "limit": 45
+          },
+          "severity": "major",
+          "state": "initial"
+        },
+        {
+          "code": "long-task-budget",
+          "selector": null,
+          "details": {
+            "maximum": 170,
+            "limit": 120
+          },
+          "severity": "major",
+          "state": "initial"
+        }
+      ],
+      "motion": {
+        "statistics": {
+          "sampleFrames": 40,
+          "frameP50Ms": 16.69999999999999,
+          "frameP95Ms": 16.799999999999955,
+          "maxFrameMs": 166.5999999999999,
+          "delayedFrames": 1,
+          "observedLayoutShiftSum": 0
+        },
+        "issues": [
+          {
+            "code": "frame-stall",
+            "selector": null,
+            "details": {
+              "sampleFrames": 40,
+              "frameP50Ms": 16.69999999999999,
+              "frameP95Ms": 16.799999999999955,
+              "maxFrameMs": 166.5999999999999,
+              "delayedFrames": 1,
+              "observedLayoutShiftSum": 0
+            },
+            "severity": "major"
+          },
+          {
+            "code": "motion-discontinuity",
+            "selector": "#subject",
+            "details": {
+              "maxStepPx": 160,
+              "limit": 45
+            },
+            "severity": "major"
+          },
+          {
+            "code": "long-task-budget",
+            "selector": null,
+            "details": {
+              "maximum": 170,
+              "limit": 120
+            },
+            "severity": "major"
+          }
+        ],
+        "supportedObservers": {
+          "longtask": true,
+          "long-animation-frame": true,
+          "layout-shift": true
+        }
+      },
+      "evidenceDirectory": "chromium--desktop--default--motion"
+    }
+  ],
+  "limitations": [
+    "Geometry, hit-test and motion probes need project contracts and manual visual review.",
+    "RAF timing in this environment does not certify real-device GPU/display smoothness.",
+    "Not a full accessibility, native-device, true-zoom or security audit."
+  ],
+  "issues": [],
+  "completedAt": "2026-10-14T12:36:56.350Z",
+  "status": "failed"
+}
